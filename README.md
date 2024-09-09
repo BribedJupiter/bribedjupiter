@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name's Jack and I'm currently a university student at The University of Kansas studying computer science. I'm interested in all forms of software engineering, but 
+I'm particularly interested in API backends and graphics programming. I love digging in to the technical nuts and bolts of a problem and designing 
+systems and solutions in complex and dynamic environments. <bn>
+
+Most of my experience is in Java, C++, C, and Python. I'm familiar with the software lifecycle, and I enjoy writing a good test. I've used tools such as Mockito, Docker, Memcached, Insomnia, Swagger, HAProxy, Maven, CMake, Premake, and, of course, Git & GitHub. I've used graphics frameworks like LibGDX and Raylib, and I'm working through OpenGL now.
