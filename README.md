@@ -19,3 +19,5 @@ I'm particularly interested in API backends and graphics programming. I love dig
 systems and solutions in complex and dynamic environments. <bn>
 
 Most of my experience is in Java, C++, C, and Python. I'm familiar with the software lifecycle, and I enjoy writing a good test. I've used tools such as Mockito, Docker, Memcached, Insomnia, Swagger, HAProxy, Maven, CMake, Premake, and, of course, Git & GitHub. I've used graphics frameworks like LibGDX and Raylib, and I'm working through OpenGL now.
+
+Overall, I'd say I'm a passionate and driven student who loves to think big, work with others, and build great software. 
