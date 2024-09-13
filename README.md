@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! 👋
 
 <!--
 **BribedJupiter/bribedjupiter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,6 @@ My name's Jack and I'm currently a university student at The University of Kansa
 I'm particularly interested in API backends and graphics programming. I love digging in to the technical nuts and bolts of a problem and designing 
 systems and solutions in complex and dynamic environments. <bn>
 
-Most of my experience is in Java, C++, C, and Python. I'm familiar with the software lifecycle, and I enjoy writing a good test. I've used tools such as Mockito, Docker, Memcached, Insomnia, Swagger, HAProxy, Maven, CMake, Premake, and, of course, Git & GitHub. I've used graphics frameworks like LibGDX and Raylib, and I'm working through OpenGL now.
+Most of my experience is in Java, C++, C, and Python. I'm familiar with the software lifecycle, and I enjoy writing a good test. Related to industry, I've used and am familiar with a variety of tools, libraries, and build systems. Some examples include Maven, Docker, Git, JUnit / Mockito, and graphics frameworks such as LibGDX, Raylib and now I'm learning OpenGL. Feel free to look through my GitHub at some of my projects. My favorite is [Morroscape](https://github.com/BribedJupiter/Morroscape) which is a C++ based game project where I've implemented the Bullet3 physics library and am now working on networking.  
 
-Overall, I'd say I'm a passionate and driven student who loves to think big, work with others, and build great software. 
+Overall, I'd say I'm a passionate and driven student who loves to think big, work with others, and build great software.
